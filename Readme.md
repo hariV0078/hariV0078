@@ -8,7 +8,7 @@
     |  |                                                 |  |  |  |             |     |
     |  | class Developer:                                |  |  |  | ==== ooo    |     ;
     |  |     role  = "AI / ML Engineer"                  |  |  |  | (((( [33]   |   ,'
-    |  |     edu   = "SK College of Eng & Tech (CSE)"    |  |  |  | ((((        | ,'
+    |  |     edu   = "SKCET College of Eng & Tech (CSE)" |  |  |  | ((((        | ,'
     |  |     langs = ["Python", "C++", "Java"]           |  |  |  |             |'
     |  |     ml_ai = ["PyTorch", "Scikit-Learn"]         |  |  |  `-------------`
     |  |     cv    = ["CNN", "ResNet50", "YOLOv10"]      |  |  |
